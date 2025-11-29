@@ -3,8 +3,31 @@
   "WorkspaceRootPath": "C:\\test.git\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D3C4E6B-65F8-4BC8-94E7-A5C3E9D1CF9B}|test\\test.vcxproj|C:\\test.git\\test\\test\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D3C4E6B-65F8-4BC8-94E7-A5C3E9D1CF9B}|test\\test.vcxproj|solutionrelative:test\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F292408A-A896-41A3-A32E-79B3549744F2}|..\\..\\code.c\\beginning-to-learn-c-language\\TestRun\\TestRun.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\TestRun\\run.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA7D96D-7C66-4306-B718-3859E238C2EC}|..\\..\\code.c\\beginning-to-learn-c-language\\Project2\\Project2.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Project2\\text2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA7D96D-7C66-4306-B718-3859E238C2EC}|..\\..\\code.c\\beginning-to-learn-c-language\\Project2\\Project2.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Project2\\text2-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60926451-DFA5-47D5-9DBA-89D204220DD3}|..\\..\\code.c\\beginning-to-learn-c-language\\Project3\\Project3.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Project3\\text3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141E166-1325-447C-9451-629A320F1561}|..\\..\\code.c\\beginning-to-learn-c-language\\Project4\\Project4.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Project4\\text4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB39ED4C-9551-4EFB-A94A-409B9883D5B0}|..\\..\\code.c\\beginning-to-learn-c-language\\Project5\\Project5.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Project5\\text5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7091A82B-1793-4322-8396-57B1B68E7FD7}|..\\..\\code.c\\beginning-to-learn-c-language\\Project6\\Project6.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Project6\\text6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7967DC27-438E-4960-8829-4FD88328A89B}|..\\..\\code.c\\beginning-to-learn-c-language\\Practice\\Practice.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Practice\\02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7967DC27-438E-4960-8829-4FD88328A89B}|..\\..\\code.c\\beginning-to-learn-c-language\\Practice\\Practice.vcxproj|C:\\code.c\\beginning-to-learn-c-language\\Practice\\01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +37,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "run.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\TestRun\\run.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\TestRun\\run.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\TestRun\\run.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\TestRun\\run.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:01.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -26,16 +63,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "1.c",
-              "DocumentMoniker": "C:\\test.git\\test\\test\\1.c",
-              "RelativeDocumentMoniker": "test\\1.c",
-              "ToolTip": "C:\\test.git\\test\\test\\1.c",
-              "RelativeToolTip": "test\\1.c",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "text6.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Project6\\text6.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Project6\\text6.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Project6\\text6.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Project6\\text6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-27T13:08:12.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T13:36:57.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "text5.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Project5\\text5.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Project5\\text5.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Project5\\text5.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Project5\\text5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:15.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "text4.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Project4\\text4.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Project4\\text4.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Project4\\text4.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Project4\\text4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:19.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "text3.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Project3\\text3.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Project3\\text3.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Project3\\text3.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Project3\\text3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "text2-2.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Project2\\text2-2.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Project2\\text2-2.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Project2\\text2-2.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Project2\\text2-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:27.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text2.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Project2\\text2.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Project2\\text2.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Project2\\text2.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Project2\\text2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:26.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "02.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Practice\\02.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Practice\\02.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Practice\\02.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Practice\\02.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:36.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "01.c",
+              "DocumentMoniker": "C:\\code.c\\beginning-to-learn-c-language\\Practice\\01.c",
+              "RelativeDocumentMoniker": "..\\..\\code.c\\beginning-to-learn-c-language\\Practice\\01.c",
+              "ToolTip": "C:\\code.c\\beginning-to-learn-c-language\\Practice\\01.c",
+              "RelativeToolTip": "..\\..\\code.c\\beginning-to-learn-c-language\\Practice\\01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-27T13:36:35.768Z"
             }
           ]
         }
